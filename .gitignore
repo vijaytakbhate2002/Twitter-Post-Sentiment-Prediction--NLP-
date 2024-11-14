@@ -1,0 +1,6 @@
+*.csv
+row_data/
+processed_data/
+.csv
+.log
+.env

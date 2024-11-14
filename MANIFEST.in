@@ -1,0 +1,6 @@
+include *.txt
+include *.py
+
+recursive exclude *.csv
+recursive exclude ./notebooks
+exclude *.log
